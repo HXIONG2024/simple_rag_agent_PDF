@@ -1,0 +1,24 @@
+# Core dependencies
+langchain>=0.1.0
+openai>=1.12.0
+chromadb>=0.4.22
+
+# Document processing
+python-dotenv>=1.0.0
+unstructured>=0.11.0
+pdf2image>=1.16.3
+pytesseract>=0.3.10
+
+# Vector store and embeddings
+sentence-transformers>=2.2.2
+
+# Web functionality
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# Data manipulation
+pandas>=2.1.0
+numpy>=1.24.0
+
+# File handling
+python-multipart>=0.0.6 
